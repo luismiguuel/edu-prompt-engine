@@ -1,0 +1,34 @@
+[
+  {
+    "id": "aluno_01",
+    "nome": "Sofia",
+    "idade": 9,
+    "nivel": "iniciante",
+    "estilo_aprendizado": "visual",
+    "contexto": "Gosta de cores, desenhos e analogias com coisas do dia a dia infantil."
+  },
+  {
+    "id": "aluno_02",
+    "nome": "Marcos",
+    "idade": 16,
+    "nivel": "intermediário",
+    "estilo_aprendizado": "auditivo",
+    "contexto": "Aprende melhor ouvindo. Gosta de explicações que pareçam um podcast ou um diálogo."
+  },
+  {
+    "id": "aluno_03",
+    "nome": "Elena",
+    "idade": 24,
+    "nivel": "avançado",
+    "estilo_aprendizado": "leitura-escrita",
+    "contexto": "Estudante universitária. Prefere textos diretos, listas de marcadores, definições formais e referências claras."
+  },
+  {
+    "id": "aluno_04",
+    "nome": "João",
+    "idade": 45,
+    "nivel": "iniciante",
+    "estilo_aprendizado": "cinestésico",
+    "contexto": "Aprende fazendo. Precisa de exemplos práticos, analogias com o mundo físico, mecânico ou situações aplicáveis na vida real."
+  }
+]

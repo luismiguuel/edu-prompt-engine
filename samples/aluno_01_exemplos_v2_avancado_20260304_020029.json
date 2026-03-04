@@ -1,0 +1,15 @@
+{
+    "metadados": {
+        "aluno": "Sofia",
+        "topico": "Fotossíntese",
+        "tipo_conteudo": "exemplos",
+        "versao_prompt": "v2_avancado",
+        "usou_cache": false
+    },
+    "resultado": {
+        "conteudo": [
+            "Imagine que a planta é uma cozinheira muito especial, com uma cozinha verde nas suas folhas! Para fazer sua comida mágica, ela precisa de três ingredientes visíveis na nossa mente:\n1.  **Luz do Sol:** Pense no sol como um forno gigante que liga a cozinha. As folhas verdinhas são como 'painéis solares' que capturam essa luz brilhante e amarela. (Desenhe mentalmente raios de sol caindo nas folhas!)\n2.  **Água:** A planta 'bebe' água pela raiz, como se fosse um canudinho que sobe pelo tronco e leva a água fresquinha até a cozinha das folhas. (Imagine a água subindo como em um elevador transparente!)\n3.  **Ar (Gás Carbônico):** A planta 'respira' um tipo de ar invisível que está ao nosso redor, o gás carbônico. Ela o puxa para dentro pelas pequenas 'bocas' nas suas folhas. (Visualize o ar entrando por portinhas minúsculas nas folhas!)\nDentro da cozinha verde, a luz do sol mistura tudo, criando um 'açúcar' delicioso para a planta crescer forte e, de brinde, ela 'solta' para o ar o oxigênio, que é o ar puro que nós respiramos! (Imagine bolinhas de oxigênio saindo das folhas como balões verdes!)",
+            "Pense na planta como uma pequena fábrica de energia verde, que funciona sem eletricidade, só com a natureza!\n1.  **Telhado Solar:** As folhas verdes são como o telhado da fábrica, cheias de mini-placas solares que 'pegam' toda a energia do sol brilhante. (Veja as folhas como espelhos verdes refletindo o sol!)\n2.  **Tubos de Água:** As raízes da planta são como tubos que puxam a água da terra para dentro da fábrica. Essa água sobe por outros tubinhos dentro do caule até as folhas. (Imagine a água correndo por um labirinto de tubos dentro da planta!)\n3.  **Ventiladores de Ar:** A fábrica também tem pequenos ventiladores invisíveis nas folhas que puxam o gás carbônico (um tipo de ar) para dentro. (Visualize o ar sendo sugado por mini-ventiladores invisíveis nas folhas!)\nDentro da fábrica, a energia do sol usa a água e o gás carbônico para produzir seu próprio combustível (açúcar, para a planta crescer) e, como 'fumaça boa', libera o oxigênio. O oxigênio é o ar fresquinho que sai das chaminés da fábrica para a gente respirar! (Pense em nuvens de oxigênio puras saindo das folhas para o céu azul!)"
+        ]
+    }
+}

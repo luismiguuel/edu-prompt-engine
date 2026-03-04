@@ -1,0 +1,16 @@
+{
+    "metadados": {
+        "aluno": "Sofia",
+        "topico": "Fotossíntese",
+        "tipo_conteudo": "perguntas",
+        "versao_prompt": "v2_avancado",
+        "usou_cache": false
+    },
+    "resultado": {
+        "conteudo": [
+            "Imagine que você é uma planta. Para que você usa a luz do sol, a água e o ar especial que você pega? O que acontece com tudo isso dentro de você?",
+            "Quando você respira, solta um ar que as plantas adoram. Por que você acha que é tão importante que a gente e as plantas 'troquem' esses ares?",
+            "Se não existisse a fotossíntese, o que você acha que mudaria na comida que a gente come e no ar que a gente respira?"
+        ]
+    }
+}

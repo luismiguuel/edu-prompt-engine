@@ -1,0 +1,12 @@
+{
+    "metadados": {
+        "aluno": "Sofia",
+        "topico": "Fotossíntese",
+        "tipo_conteudo": "resumo_visual",
+        "versao_prompt": "v2_avancado",
+        "usou_cache": false
+    },
+    "resultado": {
+        "conteudo": "                      .--------------------------.\n                      |       FOTOSSÍNTESE       |\n                      | (Plantas fazem sua comida) |\n                      '--------------------------'\n                                  |\n          .---------------------+---------------------.                 \n          |                     |                     |                 \n   .--------------.    .--------------.    .--------------.\n   |  ONDE?       |    |  O QUE ENTRA?  |    |  O QUE SAI?    |\n   | (Folhas!)    |    | (Ingredientes) |    | (Resultados)   |\n   '--------------'    '--------------'    '--------------'\n          |                     |                     |                 \n          |                     |                     |                 \n          V                     V                     V                 \n     (Clorofila)         .-------+-------.       .-------+-------.\n                         |       |       |       |       |       |\n                         V       V       V       V       V       V\n                        SOL   ÁGUA   GÁS CARBÔNICO  COMIDA (Açúcar) OXIGÊNIO\n                       (Luz) (Raiz)  (Do Ar)       (P/ a planta)   (P/ nós!)"
+    }
+}
